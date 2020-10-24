@@ -1,0 +1,3 @@
+adafruit-Blinka               5.5.4
+adafruit-circuitpython-hcsr04 0.4.3
+RPi.GPIO                      0.7.0
